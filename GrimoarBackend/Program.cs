@@ -1,3 +1,6 @@
+using GrimoarBackend.DTOs;
+using GrimoarBackend.Operations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -27,7 +30,7 @@ app.MapControllers();
 
 //app.MapGet("command name", function)
 //app.MapGet("/", () => "Oi, Cunt!");
-
+app.MapPut("vypisPostavy", (FiltrPostavyDto filter) => { return CharacterOperations.vypisPostavy(filter);});
 
 
 app.Run();
