@@ -1,0 +1,6 @@
+@GrimoarBackend_HostAddress = http://localhost:5117
+
+GET {{GrimoarBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
