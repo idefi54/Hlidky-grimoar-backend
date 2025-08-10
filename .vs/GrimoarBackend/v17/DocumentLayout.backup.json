@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\database\\postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\database\\postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\dtos\\postavazakladdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\dtos\\postavazakladdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\dtos\\postavyseznamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\dtos\\postavyseznamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\operations\\characteroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,8 @@
       "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\dtos\\filtrpostavydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\dtos\\postavyseznamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\dtos\\postavyseznamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\dtos\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\dtos\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\dtos\\postavazakladdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\dtos\\postavazakladdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|c:\\users\\idefix\\source\\repos\\grimoarbackend\\grimoarbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B271AB9C-E185-47B2-8419-B64BFDEB7C63}|GrimoarBackend\\GrimoarBackend.csproj|solutionrelative:grimoarbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Postava.cs",
+              "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Database\\Postava.cs",
+              "RelativeDocumentMoniker": "GrimoarBackend\\Database\\Postava.cs",
+              "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Database\\Postava.cs",
+              "RelativeToolTip": "GrimoarBackend\\Database\\Postava.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:24:29.099Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -52,99 +61,75 @@
               "RelativeDocumentMoniker": "GrimoarBackend\\DTOs\\PostavySeznamDto.cs",
               "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\PostavySeznamDto.cs",
               "RelativeToolTip": "GrimoarBackend\\DTOs\\PostavySeznamDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T14:41:57.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FiltrPostavyDto.cs",
               "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\FiltrPostavyDto.cs",
               "RelativeDocumentMoniker": "GrimoarBackend\\DTOs\\FiltrPostavyDto.cs",
               "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\FiltrPostavyDto.cs",
               "RelativeToolTip": "GrimoarBackend\\DTOs\\FiltrPostavyDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T14:41:16.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CharacterOperations.cs",
               "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Operations\\CharacterOperations.cs",
               "RelativeDocumentMoniker": "GrimoarBackend\\Operations\\CharacterOperations.cs",
               "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Operations\\CharacterOperations.cs",
               "RelativeToolTip": "GrimoarBackend\\Operations\\CharacterOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T14:34:38.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Program.cs",
               "RelativeDocumentMoniker": "GrimoarBackend\\Program.cs",
               "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Program.cs",
               "RelativeToolTip": "GrimoarBackend\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T13:46:17.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\Enums.cs",
               "RelativeDocumentMoniker": "GrimoarBackend\\DTOs\\Enums.cs",
               "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\Enums.cs",
               "RelativeToolTip": "GrimoarBackend\\DTOs\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T13:58:00Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PostavaZakladDto.cs",
               "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\PostavaZakladDto.cs",
               "RelativeDocumentMoniker": "GrimoarBackend\\DTOs\\PostavaZakladDto.cs",
               "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\DTOs\\PostavaZakladDto.cs",
               "RelativeToolTip": "GrimoarBackend\\DTOs\\PostavaZakladDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T13:52:15.162Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GrimoarBackend\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GrimoarBackend\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T13:42:06.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\appsettings.json",
-              "RelativeDocumentMoniker": "GrimoarBackend\\appsettings.json",
-              "ToolTip": "C:\\Users\\Idefix\\source\\repos\\GrimoarBackend\\GrimoarBackend\\appsettings.json",
-              "RelativeToolTip": "GrimoarBackend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T13:41:54.689Z"
             }
           ]
         }
