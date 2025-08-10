@@ -26,6 +26,9 @@
           }
         }
       },
+      "sqlite-net/1.6.292": {
+        "type": "package"
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "type": "package",
         "dependencies": {
@@ -340,6 +343,19 @@
         "microsoft.openapi.nuspec"
       ]
     },
+    "sqlite-net/1.6.292": {
+      "sha512": "/yXsrFYeUUYZiNELpicVG5fu0xJ0UdVgyZooqYws68NB9jLI5Ciievd96YOhtPdWY0O4F9l9XeE+446J/vnxiA==",
+      "type": "package",
+      "path": "sqlite-net/1.6.292",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/SQLite.cs",
+        "content/SQLiteAsync.cs",
+        "sqlite-net.1.6.292.nupkg.sha512",
+        "sqlite-net.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.4.0": {
       "sha512": "eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
       "type": "package",
@@ -424,7 +440,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "Swashbuckle.AspNetCore >= 6.4.0",
+      "sqlite-net >= 1.6.292"
     ]
   },
   "packageFolders": {
@@ -475,6 +492,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.4.0, )"
+          },
+          "sqlite-net": {
+            "target": "Package",
+            "version": "[1.6.292, )"
           }
         },
         "imports": [
