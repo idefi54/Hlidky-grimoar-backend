@@ -5,7 +5,7 @@ namespace GrimoarBackend.Operations
     public class CharacterOperations
     {
 
-        public static IResult vypisPostavy(FiltrPostavyDto filtr)
+        public static IResult vypisPostavy(PostavyFiltrDto filtr)
         {
             
 

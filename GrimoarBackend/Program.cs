@@ -30,7 +30,7 @@ app.MapControllers();
 
 //app.MapGet("command name", function)
 //app.MapGet("/", () => "Oi, Cunt!");
-app.MapPut("vypisPostavy", (FiltrPostavyDto filter) => { return CharacterOperations.vypisPostavy(filter);});
+app.MapPut("vypisPostavy", (PostavyFiltrDto filter) => { return CharacterOperations.vypisPostavy(filter);});
 
 
 app.Run();
